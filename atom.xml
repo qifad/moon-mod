@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https:// qifad.moon-mod.io</id>
+    <title>月镜mod</title>
+    <updated>2022-09-24T08:39:56.132Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https:// qifad.moon-mod.io"/>
+    <link rel="self" href="https:// qifad.moon-mod.io/atom.xml"/>
+    <logo>https:// qifad.moon-mod.io/images/avatar.png</logo>
+    <icon>https:// qifad.moon-mod.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 月镜mod</rights>
+    <entry>
+        <title type="html"><![CDATA[日志]]></title>
+        <id>https:// qifad.moon-mod.io/post/ri-zhi/</id>
+        <link href="https:// qifad.moon-mod.io/post/ri-zhi/">
+        </link>
+        <updated>2022-09-23T12:55:45.000Z</updated>
+        <content type="html"><![CDATA[<p>0.114514<br>
+这个版本已经是可玩的版本  ~~就是有点臭（悲 ~~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https:// qifad.moon-mod.io/post/guan-yu/</id>
+        <link href="https:// qifad.moon-mod.io/post/guan-yu/">
+        </link>
+        <updated>2022-09-23T12:36:06.000Z</updated>
+        <content type="html"><![CDATA[<p>，。。。</p>
+]]></content>
+    </entry>
+</feed>
